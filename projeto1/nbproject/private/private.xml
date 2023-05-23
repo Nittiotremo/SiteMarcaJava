@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/EfetuarLogin.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/EfetuarLogout.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/filter/RequestFilter.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/utils/Conexao.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/utils/scriptSQL.sql</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/web/home.jsp</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/web/index.jsp</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/web/gravarMarca.jsp</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/web/listarMarca.jsp</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/web/listarProduto.jsp</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/web/rodape.jsp</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/ConsultarMarca.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/ConsultarProduto.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/ExcluirMarca.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/ExcluirProduto.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/GravarMarca.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/GravarProduto.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/ListarMarca.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/ListarProduto.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/NovaMarca.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/cotroller/NovaProduto.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/dao/DAOGenerica.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/dao/MarcaDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/dao/ProdutoDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/model/Marca.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/model/Produto.java</file>
+            <file>file:/C:/Users/User/Desktop/projeto1/src/java/model/Usuario.java</file>
+        </group>
+    </open-files>
+</project-private>
